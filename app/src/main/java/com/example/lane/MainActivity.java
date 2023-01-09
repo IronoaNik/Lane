@@ -14,7 +14,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    
+    //launch to do list page
+    public void toDoListPage(View v){
+        Intent i = new Intent(this, ToDoList.class);
+        startActivity(i);
+    }
 
 
 }
