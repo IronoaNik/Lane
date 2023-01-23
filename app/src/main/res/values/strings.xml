@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lane</string>
     <string name="to_do_list">To Do List</string>
+    <string name="your_tasks">Your Tasks</string>
 </resources>
